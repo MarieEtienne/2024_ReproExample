@@ -1,6 +1,5 @@
 ---
 title: "Etude sur les manchots"
-<<<<<<< HEAD
 author: "MP Etienne, Oceane Gourdin, T Aubreton, Duport Maureen, Anaëlle Ruault du Plessis, Manon Verdier, SERRE Renaud, Victor Schmitt et Klervi Choulette et Céline Tanguy, C Tanguy"
 date: "9/2/2021"
 output: html_document
