@@ -1,6 +1,6 @@
 ---
 title: "Etude sur les manchots"
-author: "MP Etienne et Klervi Choulette"
+author: "MP Etienne et Oceane Gourdin"
 date: "9/2/2021"
 output: html_document
 ---
