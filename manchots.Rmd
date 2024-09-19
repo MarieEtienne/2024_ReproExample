@@ -1,6 +1,6 @@
 ---
 title: "Etude sur les manchots"
-author: "MP Etienne et Marine MS"
+author: "MP Etienne, Oceane Gourdin et T Aubreton Marine MS"
 date: "9/2/2021"
 output: html_document
 ---
