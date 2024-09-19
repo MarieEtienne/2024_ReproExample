@@ -1,8 +1,6 @@
 ---
 title: "Etude sur les manchots"
-<<<<<<< HEAD
-author: "MP Etienne et Oceane Gourdin"
->>>>>>> 22c05b1e75cb7f68a87ebf37a570e90072ee85bc
+author: "MP Etienne et Oceane Gourdin et Rudy Usach"
 date: "9/2/2021"
 output: html_document
 ---
@@ -20,3 +18,26 @@ install.packages('palmerpenguins)
 ```
 
 L'objectif de cette classe est de proposer des représentations graphiques de ces données en collaborant à l'aide de l'outil git.
+=======
+---
+title: "Etude sur les manchots"
+author: "MP Etienne et Manon Verdier et Oceane Gourdin et T Aubreton "
+author: "MP Etienne et Duport Maureen :)"
+date: "9/2/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Introduction 
+
+Le  [Dr. Kristen Gorman](https://www.uaf.edu/cfos/people/faculty/detail/kristen-gorman.php) et la [station Palmer en Antarctique](https://pal.lternet.edu/) sont membres  de a member of [ Long Term Ecological Research Network](https://lternet.edu/) et ont collectés un jeu de données portant sur 344 manchots appatenant à 3 espèces différentes. Ces données sont disponibles dans le package [palmerpenguins](https://allisonhorst.github.io/palmerpenguins/). Ce package peut être installé à l'aide de la commande
+
+```{r install_package, eval = FALSE}
+install.packages('palmerpenguins)
+```
+
+L'objectif de cette classe est de proposer des représentations graphiques de ces données en collaborant à l'aide de l'outil git.
+
