@@ -1,6 +1,7 @@
 ---
 title: "Etude sur les manchots"
-author: "MP Etienne et Manon Verdier et Oceane Gourdin et T Aubreton et Klervi Choulette "
+
+author: "MP Etienne, Victor Schmitt, Oceane Gourdin et T Aubreton et Manon Verdier et SERRE Renaud et Klervi Choulette"
 author: "MP Etienne et Duport Maureen :)"
 date: "9/2/2021"
 output: html_document
