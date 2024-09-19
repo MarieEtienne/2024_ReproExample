@@ -1,6 +1,8 @@
 ---
 title: "Etude sur les manchots"
-author: "MP Etienne et MaloDenoual"
+<<<<<<< HEAD
+author: "MP Etienne et Oceane Gourdin"
+>>>>>>> 22c05b1e75cb7f68a87ebf37a570e90072ee85bc
 date: "9/2/2021"
 output: html_document
 ---
