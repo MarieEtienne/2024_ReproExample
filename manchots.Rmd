@@ -1,6 +1,10 @@
 ---
 title: "Etude sur les manchots"
+<<<<<<< HEAD
 author: "MP Etienne, C Tanguy"
+=======
+author: "MP Etienne et Oceane Gourdin"
+>>>>>>> eef4695b6e421537c0b55c0188c1604c7d8e8b6f
 date: "9/2/2021"
 output: html_document
 ---
