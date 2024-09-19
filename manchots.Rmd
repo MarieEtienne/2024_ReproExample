@@ -1,6 +1,6 @@
 ---
 title: "Etude sur les manchots"
-author: "MP Etienne et al"
+author: "MP Etienne, Victor Schmitt et Oceane Gourdin"
 date: "9/2/2021"
 output: html_document
 ---
@@ -19,4 +19,4 @@ install.packages('palmerpenguins)
 
 L'objectif de cette classe est de proposer des représentations graphiques de ces données en collaborant à l'aide de l'outil git.
 
-#Bonjour moi c est Victor
+
