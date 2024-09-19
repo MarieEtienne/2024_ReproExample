@@ -27,8 +27,8 @@ L'objectif de cette classe est de proposer des représentations graphiques de ce
 ---
 title: "Etude sur les manchots"
 
-author: "MP Etienne, Victor Schmitt, Oceane Gourdin et T Aubreton et Manon Verdier et SERRE Renaud et Klervi Choulette"
-author: "MP Etienne et Duport Maureen :)"
+author: "MP Etienne, Oceane Gourdin, T Aubreton, Duport Maureen, Anaëlle Ruault du Plessis, Manon Verdier, SERRE Renaud, Victor Schmitt et Klervi Choulette et Céline Tanguy, C Tanguy, Marine MS"
+
 date: "9/2/2021"
 output: html_document
 ---
