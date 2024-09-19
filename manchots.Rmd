@@ -1,6 +1,6 @@
 ---
 title: "Etude sur les manchots"
-author: "MP Etienne et al"
+author: "MP Etienne ; Rudy Usach"
 date: "9/2/2021"
 output: html_document
 ---
@@ -18,4 +18,16 @@ install.packages('palmerpenguins)
 ```
 
 L'objectif de cette classe est de proposer des représentations graphiques de ces données en collaborant à l'aide de l'outil git.
+
+
+BONJOUR BONSOIR
+
+MANCHOT
+
+
+
+
+
+
+
 
