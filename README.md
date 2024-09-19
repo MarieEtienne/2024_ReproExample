@@ -16,3 +16,6 @@ C est un projet
 Le fichier manchots.Rmd propose ainsi une introduction sur la réalisation de la 
 collecte des données, puis installe le package palmerpenguins pour permettre
 des futures analyses du jeu de données.
+
+
+modification dans la branche patate
