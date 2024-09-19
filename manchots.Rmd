@@ -28,3 +28,11 @@ library(tidyverse)
 data("penguins")
 penguins |> ggplot() + aes( x= bill_length_mm, y = bill_depth_mm) + geom_point()
 ```
+
+
+Un autre graphique 
+
+
+```{r install_package, eval = FALSE}
+penguins |> ggplot() + aes( x= body_mass_g, y = bill_depth_mm) + geom_point()
+```
