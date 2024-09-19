@@ -15,6 +15,9 @@ Le  [Dr. Kristen Gorman](https://www.uaf.edu/cfos/people/faculty/detail/kristen-
 
 ```{r install_package, eval = FALSE}
 install.packages('palmerpenguins)
+                 
+                 
+# Duport Maureen :)                
 ```
 
 L'objectif de cette classe est de proposer des représentations graphiques de ces données en collaborant à l'aide de l'outil git.
