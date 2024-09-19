@@ -1,5 +1,8 @@
 # git_example
 
+Ce document est modifié
+Ce fichier sert à illustrer une mise en commun par git.
+
 Ce dépôt git sert à illustrer le cours de sciences reproductibles
 <<<<<<< HEAD
 C est un projet

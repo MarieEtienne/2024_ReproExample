@@ -1,6 +1,9 @@
 ---
 title: "Etude sur les manchots"
-author: "MP Etienne, Victor Schmitt et Oceane Gourdin"
+
+
+author: "MP Etienne, Victor Schmitt, Oceane Gourdin et T Aubreton"
+
 date: "9/2/2021"
 output: html_document
 ---
