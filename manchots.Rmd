@@ -1,6 +1,7 @@
 ---
 title: "Etude sur les manchots"
-author: "MP Etienne et L Vuille"
+
+author: "MP Etienne et Oceane Gourdin et L Vuille"
 date: "9/2/2021"
 output: html_document
 ---
