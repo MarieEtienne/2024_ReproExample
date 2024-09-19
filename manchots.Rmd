@@ -1,8 +1,15 @@
 ---
 title: "Etude sur les manchots"
+<<<<<<< HEAD
 
 
-author: "MP Etienne, Oceane Gourdin, T Aubreton, Duport Maureen, Anaëlle Ruault du Plessis"
+author: "MP Etienne, Oceane Gourdin, T Aubreton, Duport Maureen, Anaëlle Ruault du Plessis, Manon Verdier, SERRE Renaud "
+
+author: "MP Etienne & SERRE Renaud"
+=======
+author: "MP Etienne et Manon Verdier et Oceane Gourdin et T Aubreton "
+
+author: "MP Etienne et Duport Maureen :)"
 
 date: "9/2/2021"
 output: html_document
