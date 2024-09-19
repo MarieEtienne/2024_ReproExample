@@ -1,9 +1,11 @@
 ---
 title: "Etude sur les manchots"
+<<<<<<< HEAD
 author: "MP Etienne & SERRE Renaud"
+=======
+author: "MP Etienne et Manon Verdier et Oceane Gourdin et T Aubreton "
+>>>>>>> f08f0f8727e4a25c09c7b2da89384b4b4140bf6c
 author: "MP Etienne et Duport Maureen :)"
-author: "MP Etienne et Oceane Gourdin"
-author: "MP Etienne, Oceane Gourdin et T Aubreton"
 date: "9/2/2021"
 output: html_document
 ---
@@ -21,4 +23,5 @@ install.packages('palmerpenguins)
 ```
 
 L'objectif de cette classe est de proposer des représentations graphiques de ces données en collaborant à l'aide de l'outil git.
+
 

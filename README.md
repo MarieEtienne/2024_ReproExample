@@ -1,5 +1,8 @@
 # git_example
 
+<<<<<<< HEAD
+Hello world
+=======
 Ce document est modifié
 Ce fichier sert à illustrer une mise en commun par git.
 
