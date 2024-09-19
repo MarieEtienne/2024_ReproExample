@@ -1,6 +1,9 @@
 ---
 title: "Etude sur les manchots"
-author: "MP Etienne and A Ruault du Plessis"
+
+author: "MP Etienne, Oceane Gourdin et T Aubreton"
+
+>>>>>>> fabff7da827d97a8c78cb2c99157369e793a7d4b
 date: "9/2/2021"
 output: html_document
 ---
