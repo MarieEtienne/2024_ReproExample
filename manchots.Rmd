@@ -1,10 +1,8 @@
 ---
 title: "Etude sur les manchots"
-<<<<<<< HEAD
 author: "MP Etienne et Duport Maureen :)"
-=======
-<<<<<<< HEAD
 author: "MP Etienne et Oceane Gourdin"
+author: "MP Etienne, Oceane Gourdin et T Aubreton"
 date: "9/2/2021"
 output: html_document
 ---
